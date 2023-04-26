@@ -1,7 +1,6 @@
-# Hello, I'm Olivia 👋🏽 👩🏻‍🦱
-README Skeleton
+# Hello, I'm Olivia 👋🏽
+![Header](./github-header-image.png)
 
-- Title Photo
 - Personal description
 - Education
 - Work Experience
