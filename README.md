@@ -1,4 +1,4 @@
-# Hello, I'm Olivia
+# Hello, I'm Olivia 👋🏽 👩🏻‍🦱
 README Skeleton
 
 - Title Photo
