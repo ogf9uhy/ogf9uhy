@@ -1,6 +1,5 @@
 # Hello, I'm Olivia 👋🏽
-![Header](./github-header-image.png)
-
+![Header](./oliviaheader.png)
 - Personal description
 - Education
 - Work Experience
